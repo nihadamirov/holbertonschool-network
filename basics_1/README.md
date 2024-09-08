@@ -73,7 +73,7 @@ telnet localhost 98
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/holbertonschool-network
+   git clone https://github.com/nihadamirov/holbertonschool-network
    ```
 
 2. Navigate to the project directory:
